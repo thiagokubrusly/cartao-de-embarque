@@ -9,7 +9,7 @@
 | -------------  | --- |
 | :bookmark: Nome        | **Cartão de Embarque**
 | :gear: Tecnologias | HTML, CSS, Figma
-| :earth_americas: URL         | -
+| :earth_americas: URL         | https://thiagokubrusly.github.io/cartao-de-embarque/
 | :crossed_swords: Desafio     | #boraCodar: desafio 06 - Rocketseat
 
 ## Tecnologias
