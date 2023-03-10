@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cartão de Embarque</title>
+
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap" rel="stylesheet">
+</head>
+
+<body>
+<!-- ======== HEADER ======== -->
+
+    <header>
+        <h1 class="boardingCard-title">Cartão de embarque</h1>
+    </header>
+
+<!-- ===== FLIGHT CARD (MAIN) ===== -->
+
+    <div class="card-wrapper">
+        <main class="main-card">
+            <article class="flight-info">
+
+                <div class="wrapper-number-date">     
+                    <div>
+                        <h2>Voo</h2>
+                        <p>RS995</p>
+                    </div>
+                    <div class="flight-date date-arrival-seat">
+                        <h2>Data</h2>
+                        <p>23/05/2023</p>
+                    </div>
+                </div>
+
+                <div class="wrapper-departure-img-arrival">
+                    <div>
+                        <h2 class="city-name">São Paulo, Brasil</h2>
+                        <p class="gru-airport">GRU</p>
+                        <h2>17:20</h2>
+                    </div>
+                    
+                    <img src="./airplaneImg.svg" alt="plane-logo">
+
+                    <div>
+                        <h2 class="city-name">São Francisco, EUA</h2>
+                        <p class="sfo-airport">SFO</p>
+                        <div class="sfo-airport-time date-arrival-seat">
+                            <time>04:48</time>
+                            <sup>+1</sup>
+                        </div>
+                    </div>
+                </div>
+
+            </article>
+
+            <article class="passanger-info">
+                <div>
+                    <h2>Passageiro</h2>
+                    <p class="passanger-name">Thiago Kubrusly</p>
+                </div>
+
+                <div class="passanger-seat date-arrival-seat">
+                    <h2>Assento</h2>
+                    <p>28A</p>
+                </div>
+
+            </article>
+
+            <article class="boarding-info">
+                <div class="wrapper-boarding-info-img">    
+                    <div class="wrapper-boarding-info">
+                        <h2>Embarque</h2>
+                        <p>16:15</p>
+
+                        <h2>Terminal</h2>
+                        <p>2</p>
+
+                        <h2>Portão</h2>
+                        <p>15</p>
+                    </div>
+
+                    <div class="wrapper-img-group">
+                        <img class="qrcode" src="./qrcode-lkdin.png" alt="qr code que leva ao linkedin">
+                        <h2>Grupo de embarque: 3</h2>
+                    </div>
+                </div>
+
+                    <h2 class="close-gate-warning"><strong>Atenção:&nbsp</strong>o portão fecha 16:45</h2>
+
+            </article>
+        </main>
+    </div>
+
+<!-- ======== FOOTER ======== -->
+
+    <footer>
+        <p class="boardingCard-footer">Qualquer problema procure o balcão de <br> atendimento da sua companhia aérea</p>
+    </footer>
+</body>
+</html>
