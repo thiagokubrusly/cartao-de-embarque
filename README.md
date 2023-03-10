@@ -21,4 +21,4 @@
 ## Preview
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://raw.githubusercontent.com/thiagokubrusly/cartao-de-embarque/main/desafioRocket/boardcardGif.gif)
+![](https://github.com/thiagokubrusly/cartao-de-embarque/blob/main/boardcardGif.gif?raw=true)
