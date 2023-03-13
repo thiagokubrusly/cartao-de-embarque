@@ -2,7 +2,7 @@
 
 <p>Desafio da Rocketseat para codar um cartão de embarque.</p>
 <p>Dei um passo além no desafio proposto: adaptei o card para qualquer tamanho dos nomes (passageiro e/ou cidades) que venham a ser inseridos no cartão.</p>
-<p>A ideia é já visar uma situação real na qual o passageiro utilizará seus próprios dados pessoas e escolherá as próprias cidades de origem e destino.</p>
+<p>A ideia é já visar uma situação real, na qual o passageiro utilizará seus próprios dados pessoais e escolherá as próprias cidades de origem e destino.</p>
 
 
 |||
