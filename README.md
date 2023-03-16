@@ -20,5 +20,4 @@
 
 ## Preview
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://github.com/thiagokubrusly/cartao-de-embarque/blob/main/boardcardGif.gif?raw=true)
